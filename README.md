@@ -1,14 +1,26 @@
 # PSYCHRONIC_PTBS
 
-v1.0.4 - Psychronic Tactical Battle System (PTBS) with Win Condition Editor
+Psychronic Tactical Battle System (PTBS) with Win Condition Editor
 
-## What This Is
+## What It Does
 
-This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
+Psychronic Tactical Battle System (PTBS) with Win Condition Editor.
 
-## Plugin File
+## Plugin Commands
 
-- `PSYCHRONIC_PTBS.js`
+- PTBS_StartBattle
+- PTBS_RecoverBattlers
+- setWinConditions
+- PTBS_SetCursorPosition
+- PTBS_SetCursorToEvent
+- PTBS_ReleaseCameraLock
+- PTBS_HideUI
+- PTBS_ShowUI
+
+## Compatibility
+
+- RPG Maker MZ
+- JavaScript plugin for `js/plugins/`
 
 ## Installation
 
@@ -20,11 +32,11 @@ This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
 
 This version was exported from the RPG Reactor Complex template source plugin folder.
 
-Current source version: 1.0.4
-
 ## Author
 
 Psychronic
+
+https://psychronic.itch.io
 
 ## License
 
